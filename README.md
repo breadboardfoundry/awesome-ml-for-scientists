@@ -4,6 +4,10 @@
 
 This list is for **domain scientists** like marine biologists, climate researchers, ecologists, and others—who need to run ML experiments. It focuses on accessible compute, reproducible workflows, and resources that are for researchers and scientists, not scaling companies.
 
+It is curated by [Bread Board Foundry](https://github.com/breadboardfoundry). 
+
+Check out [Pandoro](https://github.com/breadboardfoundry/pandoro) — GPU compute infrastructure for research teams running ML experiments.
+
 ---
 
 ## Contents
