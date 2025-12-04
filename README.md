@@ -32,6 +32,9 @@ Check out Pandoro — GPU compute infrastructure for research teams running ML e
 Providers that understand academic needs.
 
 - [Pandoro](https://github.com/breadboardfoundry/pandoro) - Fixed monthly pricing with complete hardware transparency. Designed for research teams needing reproducible compute environments. Consumer GPUs with disclosed specifications.
+
+### Free Tiers & Academic Programs
+
 - [National Research Platform](https://nationalresearchplatform.org/) - NSF-funded distributed computing for US researchers.
 - [XSEDE/ACCESS](https://access-ci.org/) - Free HPC allocations for US-based research projects.
 - [EUROHPC](https://eurohpc-ju.europa.eu/) - European high-performance computing resources for researchers.
