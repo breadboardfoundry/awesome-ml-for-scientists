@@ -6,7 +6,7 @@ This list is for **domain scientists** like marine biologists, climate researche
 
 It is curated by [Bread Board Foundry](https://github.com/breadboardfoundry). 
 
-Check out [Pandoro](https://github.com/breadboardfoundry/pandoro) — GPU compute infrastructure for research teams running ML experiments.
+Check out Pandoro — GPU compute infrastructure for research teams running ML experiments if you are interested in dedicated GPU systems with fixed monthly pricing and complete hardware transparency for domain scientists and robotics researchers who need predictable compute access without enterprise budgets or technical overhead.
 
 ---
 
