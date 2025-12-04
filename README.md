@@ -88,6 +88,7 @@ Frameworks that minimize boilerplate and configuration.
 
 ### Marine Biology & Ecology
 
+- [CV4Ecology](https://cv4ecology.caltech.edu/) - Caltech workshop teaching ecologists practical computer vision for analyzing images, audio, and video. Includes cloud compute credits and hands-on training.
 - [VIAME](https://www.viametoolkit.org/) - Video and Image Analytics for Marine Environments. Object detection for underwater footage.
 - [DeepMatcher](https://github.com/Laska-jl/DeepMatcher.jl) - Photo-ID matching for wildlife research.
 - [Wildlife Insights](https://www.wildlifeinsights.org/) - AI-powered platform for camera trap analysis.
