@@ -10,12 +10,11 @@ This list is for **domain scientists** like marine biologists, climate researche
 
 - [GPU Access](#gpu-access)
   - [Free Tiers & Academic Programs](#free-tiers--academic-programs)
-  - [Budget-Friendly Cloud GPU](#budget-friendly-cloud-gpu)
-  - [Research-Focused Providers](#research-focused-providers)
 - [Reproducibility & Hardware Transparency](#reproducibility--hardware-transparency)
 - [ML for Non-Engineers](#ml-for-non-engineers)
   - [Courses & Tutorials](#courses--tutorials)
   - [Beginner-Friendly Tools](#beginner-friendly-tools)
+  - [Books for Scientists](#books-for-scientists)
 - [Domain-Specific Resources](#domain-specific-resources)
   - [Marine Biology & Ecology](#marine-biology--ecology)
   - [Climate & Environmental Science](#climate--environmental-science)
@@ -26,7 +25,7 @@ This list is for **domain scientists** like marine biologists, climate researche
 
 ## GPU Access
 
-### Free Tiers & Academic Progr
+### Free Tiers & Academic Programs
 
 Providers that understand academic needs.
 
@@ -77,9 +76,9 @@ Frameworks that minimize boilerplate and configuration.
 
 ### Books for Scientists
 
-- *Deep Learning for Coders with fastai and PyTorch* (Howard & Gugger) - Practical approach for non-CS backgrounds.
-- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (Géron) - Comprehensive practical guide.
-- *Python for Data Analysis* (McKinney) - Foundation in pandas and data manipulation.
+- [Deep Learning for Coders with fastai and PyTorch](https://course.fast.ai/Resources/book.html) - Practical approach for non-CS backgrounds (Howard & Gugger).
+- [Hands-On Machine Learning with scikit-learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) - Comprehensive practical guide (Géron).
+- [Python for Data Analysis](https://wesmckinney.com/book/) - Foundation in Pandas and data manipulation (McKinney).
 
 ---
 
@@ -136,9 +135,5 @@ We especially welcome:
 - Resources for domain scientists in fields not yet covered
 - Free or low-cost tools accessible to grant-funded researchers
 - Guides and tutorials written for non-CS audiences
-
----
-
-## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
