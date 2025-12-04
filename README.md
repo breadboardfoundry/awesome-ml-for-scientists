@@ -29,8 +29,6 @@ Check out Pandoro — GPU compute infrastructure for research teams running ML e
 
 ## GPU Access
 
-### Free Tiers & Academic Programs
-
 Providers that understand academic needs.
 
 - [Pandoro](https://github.com/breadboardfoundry/pandoro) - Fixed monthly pricing with complete hardware transparency. Designed for research teams needing reproducible compute environments. Consumer GPUs with disclosed specifications.
