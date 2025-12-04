@@ -135,5 +135,3 @@ We especially welcome:
 - Resources for domain scientists in fields not yet covered
 - Free or low-cost tools accessible to grant-funded researchers
 - Guides and tutorials written for non-CS audiences
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
