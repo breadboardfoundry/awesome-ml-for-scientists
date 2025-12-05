@@ -2,7 +2,7 @@
 
 > Resources for research teams running machine learning experiments without enterprise budgets or ML engineering backgrounds.
 
-This list is for **domain scientists** like marine biologists, climate researchers, ecologists, and others—who need to run ML experiments. It focuses on accessible compute, reproducible workflows, and resources that are for researchers and scientists, not scaling companies.
+This list is for **scientists** like marine biologists, climate researchers, ecologists, and others—who need to run ML experiments. It focuses on accessible compute, reproducible workflows, and resources that are for researchers and scientists, not scaling companies.
 
 It is curated by [Bread Board Foundry](https://github.com/breadboardfoundry). Check out Pandoro — GPU compute infrastructure for research teams below. 
 
