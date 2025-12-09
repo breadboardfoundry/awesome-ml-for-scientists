@@ -94,6 +94,7 @@ Frameworks that minimize boilerplate and configuration.
 - [DeepMatcher](https://github.com/Laska-jl/DeepMatcher.jl) - Photo-ID matching for wildlife research.
 - [Wildlife Insights](https://www.wildlifeinsights.org/) - AI-powered platform for camera trap analysis.
 - [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) - Microsoft's pre-trained model for camera trap images. Detects animals, people, vehicles.
+- [Camera Trap ML Survey](https://agentmorris.github.io/camera-trap-ml-survey/) - Comprehensive guide to ML systems, models, and tools for camera trap image analysis.
 - [FathomNet](https://fathomnet.org/) - Image database for ocean exploration with ML tools.
 - [Zooniverse ML](https://www.zooniverse.org/lab) - Citizen science platform with ML integration for image classification.
 
