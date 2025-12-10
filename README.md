@@ -1,4 +1,9 @@
-# Awesome ML For Scientists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="logo.png" width="400" alt="Awesome ML For Scientists">
+  <br>
+  <br>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</div>
 
 > Resources for research teams running machine learning experiments without enterprise budgets or ML engineering backgrounds.
 
